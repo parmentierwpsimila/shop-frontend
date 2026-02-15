@@ -1,0 +1,157 @@
+{
+    "categories": ["服装", "鞋类", "配饰", "电子", "家居"],
+    "products": [
+        {
+            "id": 1,
+            "name": "经典纯棉T恤",
+            "category": "服装",
+            "description": "采用优质纯棉面料，透气舒适，适合日常穿着。多色可选，简约时尚。",
+            "price": 89,
+            "originalPrice": 129,
+            "images": [
+                "images/tshirt1.jpg",
+                "images/tshirt2.jpg",
+                "images/tshirt3.jpg"
+            ],
+            "specs": {
+                "颜色": ["白色", "黑色", "灰色", "蓝色"],
+                "尺码": ["S", "M", "L", "XL", "XXL"]
+            },
+            "stock": 100,
+            "sales": 528
+        },
+        {
+            "id": 2,
+            "name": "运动休闲鞋",
+            "category": "鞋类",
+            "description": "轻便透气鞋底，柔软舒适内垫，适合运动和日常休闲穿着。",
+            "price": 299,
+            "originalPrice": 399,
+            "images": [
+                "images/shoes1.jpg",
+                "images/shoes2.jpg",
+                "images/shoes3.jpg"
+            ],
+            "specs": {
+                "颜色": ["黑色", "白色", "红色"],
+                "尺码": ["38", "39", "40", "41", "42", "43", "44"]
+            },
+            "stock": 80,
+            "sales": 1024
+        },
+        {
+            "id": 3,
+            "name": "时尚双肩包",
+            "category": "配饰",
+            "description": "大容量设计，多层分隔，防水面料，适合通勤、上学、旅行使用。",
+            "price": 159,
+            "originalPrice": 199,
+            "images": [
+                "images/bag1.jpg",
+                "images/bag2.jpg",
+                "images/bag3.jpg"
+            ],
+            "specs": {
+                "颜色": ["黑色", "灰色", "蓝色"],
+                "尺寸": ["小号", "中号", "大号"]
+            },
+            "stock": 60,
+            "sales": 326
+        },
+        {
+            "id": 4,
+            "name": "蓝牙无线耳机",
+            "category": "电子",
+            "description": "降噪技术，高保真音质，长续航，舒适佩戴体验。",
+            "price": 499,
+            "originalPrice": 699,
+            "images": [
+                "images/headphone1.jpg",
+                "images/headphone2.jpg",
+                "images/headphone3.jpg"
+            ],
+            "specs": {
+                "颜色": ["黑色", "白色", "蓝色"],
+                "版本": ["标准版", "降噪版", "Pro版"]
+            },
+            "stock": 45,
+            "sales": 892
+        },
+        {
+            "id": 5,
+            "name": "简约台灯",
+            "category": "家居",
+            "description": "护眼光源，三档调光，触摸开关，USB充电，适合阅读和工作。",
+            "price": 129,
+            "originalPrice": 169,
+            "images": [
+                "images/lamp1.jpg",
+                "images/lamp2.jpg",
+                "images/lamp3.jpg"
+            ],
+            "specs": {
+                "颜色": ["白色", "黑色", "金色"],
+                "亮度": ["暖光", "自然光", "冷光"]
+            },
+            "stock": 120,
+            "sales": 445
+        },
+        {
+            "id": 6,
+            "name": "牛仔裤",
+            "category": "服装",
+            "description": "弹性面料，修身剪裁，耐磨耐穿，经典百搭款式。",
+            "price": 199,
+            "originalPrice": 259,
+            "images": [
+                "images/jeans1.jpg",
+                "images/jeans2.jpg",
+                "images/jeans3.jpg"
+            ],
+            "specs": {
+                "颜色": ["深蓝", "浅蓝", "黑色"],
+                "尺码": ["26", "27", "28", "29", "30", "31", "32"]
+            },
+            "stock": 90,
+            "sales": 756
+        },
+        {
+            "id": 7,
+            "name": "智能手表",
+            "category": "电子",
+            "description": "心率监测，运动追踪，消息提醒，超长续航，防水设计。",
+            "price": 799,
+            "originalPrice": 999,
+            "images": [
+                "images/watch1.jpg",
+                "images/watch2.jpg",
+                "images/watch3.jpg"
+            ],
+            "specs": {
+                "颜色": ["黑色", "银色", "金色"],
+                "尺寸": ["40mm", "44mm", "46mm"]
+            },
+            "stock": 55,
+            "sales": 678
+        },
+        {
+            "id": 8,
+            "name": "棉麻休闲裤",
+            "category": "服装",
+            "description": "天然棉麻面料，吸湿透气，宽松版型，夏季清爽舒适。",
+            "price": 169,
+            "originalPrice": 219,
+            "images": [
+                "images/pants1.jpg",
+                "images/pants2.jpg",
+                "images/pants3.jpg"
+            ],
+            "specs": {
+                "颜色": ["米色", "灰色", "黑色", "军绿"],
+                "尺码": ["S", "M", "L", "XL", "XXL"]
+            },
+            "stock": 75,
+            "sales": 389
+        }
+    ]
+}
