@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "slug": "001-how-to-choose-clothing-size",
+      "title": "如何选择合适的服装尺码",
+      "excerpt": "购买服装时，选择正确的尺码非常重要。本文将教您如何测量自己的身体尺寸，并选择最适合的尺码。",
+      "category": "购物指南",
+      "date": "2023-12-01",
+      "author": "优选商城"
+    },
+    {
+      "slug": "002-spring-outfit-guide",
+      "title": "春季穿搭指南",
+      "excerpt": "春天来了，是时候更新你的衣橱了。这里有一些春季穿搭建议，帮助你打造时尚的造型。",
+      "category": "时尚",
+      "date": "2023-12-05",
+      "author": "优选商城"
+    },
+    {
+      "slug": "003-smartwatch-buying-guide",
+      "title": "智能手表选购指南",
+      "excerpt": "想买智能手表？本文将介绍如何选择最适合您的智能手表，包括功能、品牌和价格等方面的考虑。",
+      "category": "数码",
+      "date": "2023-12-10",
+      "author": "优选商城"
+    },
+    {
+      "slug": "004-leather-care-tips",
+      "title": "皮革护理小技巧",
+      "excerpt": "皮革制品需要定期护理才能保持美观和延长使用寿命。本文将分享一些实用的皮革护理技巧。",
+      "category": "保养",
+      "date": "2023-12-15",
+      "author": "优选商城"
+    },
+    {
+      "slug": "005-minimalist-lifestyle",
+      "title": "极简生活指南",
+      "excerpt": "极简生活可以帮助你减少物质负担，专注于重要的事情。这里有一些开始极简生活的实用建议。",
+      "category": "生活方式",
+      "date": "2023-12-20",
+      "author": "优选商城"
+    },
+    {
+      "slug": "006-home-decor-trends",
+      "title": "2024家居装饰趋势",
+      "excerpt": "了解最新的家居装饰趋势，为你的家带来全新的面貌。从色彩到材质，这里有你需要的所有信息。",
+      "category": "家居",
+      "date": "2023-12-25",
+      "author": "优选商城"
+    },
+    {
+      "slug": "007-accessories-styling-guide",
+      "title": "配饰搭配技巧",
+      "excerpt": "配饰可以提升整体造型，让简单的穿搭变得精致。本文将教你如何搭配各种配饰。",
+      "category": "时尚",
+      "date": "2024-01-01",
+      "author": "优选商城"
+    },
+    {
+      "slug": "008-sustainable-shopping",
+      "title": "可持续购物指南",
+      "excerpt": "如何在购物时做出环保选择？本文将介绍可持续购物的原则和实践方法。",
+      "category": "环保",
+      "date": "2024-01-05",
+      "author": "优选商城"
+    },
+    {
+      "slug": "009-headphone-selection-guide",
+      "title": "耳机选购指南",
+      "excerpt": "从入门到高端，如何选择适合自己的耳机？本文将详细介绍各种类型的耳机及其特点。",
+      "category": "数码",
+      "date": "2024-01-10",
+      "author": "优选商城"
+    },
+    {
+      "slug": "010-color-matching-course",
+      "title": "色彩搭配课程",
+      "excerpt": "学习如何搭配颜色，让你的穿搭更加出彩。本文将介绍基本的色彩搭配原则和技巧。",
+      "category": "时尚",
+      "date": "2024-01-15",
+      "author": "优选商城"
+    }
+  ]
+}
