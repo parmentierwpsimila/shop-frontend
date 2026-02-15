@@ -1,0 +1,110 @@
+{
+    "categories": [
+        { "id": 1, "name": "服装", "icon": "fas fa-tshirt", "count": 3 },
+        { "id": 2, "name": "鞋类", "icon": "fas fa-shoe-prints", "count": 1 },
+        { "id": 3, "name": "配饰", "icon": "fas fa-shopping-bag", "count": 1 },
+        { "id": 4, "name": "电子", "icon": "fas fa-laptop", "count": 2 },
+        { "id": 5, "name": "家居", "icon": "fas fa-home", "count": 1 }
+    ],
+    "featuredProducts": [
+        {
+            "id": 4,
+            "name": "蓝牙无线耳机",
+            "brand": "优选数码",
+            "category": "电子",
+            "description": "降噪技术，高保真音质，长续航，舒适佩戴体验。",
+            "price": 499,
+            "originalPrice": 699,
+            "discount": 29,
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+            "rating": 4.8,
+            "stock": 45,
+            "sales": 892,
+            "images": [
+                "images/headphone1.jpg",
+                "images/headphone2.jpg",
+                "images/headphone3.jpg"
+            ],
+            "specs": {
+                "颜色": ["黑色", "白色", "蓝色"],
+                "版本": ["标准版", "降噪版", "Pro版"]
+            }
+        },
+        {
+            "id": 7,
+            "name": "智能手表",
+            "brand": "优选数码",
+            "category": "电子",
+            "description": "心率监测，运动追踪，消息提醒，超长续航，防水设计。",
+            "price": 799,
+            "originalPrice": 999,
+            "discount": 20,
+            "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+            "rating": 4.7,
+            "stock": 55,
+            "sales": 678,
+            "images": [
+                "images/watch1.jpg",
+                "images/watch2.jpg",
+                "images/watch3.jpg"
+            ],
+            "specs": {
+                "颜色": ["黑色", "银色", "金色"],
+                "尺寸": ["40mm", "44mm", "46mm"]
+            }
+        },
+        {
+            "id": 1,
+            "name": "经典纯棉T恤",
+            "brand": "优选服饰",
+            "category": "服装",
+            "description": "采用优质纯棉面料，透气舒适，适合日常穿着。多色可选，简约时尚。",
+            "price": 89,
+            "originalPrice": 129,
+            "discount": 31,
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+            "rating": 4.5,
+            "stock": 100,
+            "sales": 528,
+            "images": [
+                "images/tshirt1.jpg",
+                "images/tshirt2.jpg",
+                "images/tshirt3.jpg"
+            ],
+            "specs": {
+                "颜色": ["白色", "黑色", "灰色", "蓝色"],
+                "尺码": ["S", "M", "L", "XL", "XXL"]
+            }
+        },
+        {
+            "id": 5,
+            "name": "简约台灯",
+            "brand": "优选家居",
+            "category": "家居",
+            "description": "护眼光源，三档调光，触摸开关，USB充电，适合阅读和工作。",
+            "price": 129,
+            "originalPrice": 169,
+            "discount": 24,
+            "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+            "rating": 4.6,
+            "stock": 120,
+            "sales": 445,
+            "images": [
+                "images/lamp1.jpg",
+                "images/lamp2.jpg",
+                "images/lamp3.jpg"
+            ],
+            "specs": {
+                "颜色": ["白色", "黑色", "金色"],
+                "亮度": ["暖光", "自然光", "冷光"]
+            }
+        }
+    ],
+    "brands": [
+        { "id": 1, "name": "优选数码", "initials": "YX", "productCount": 2 },
+        { "id": 2, "name": "优选服饰", "initials": "YS", "productCount": 3 },
+        { "id": 3, "name": "优选家居", "initials": "YJ", "productCount": 1 },
+        { "id": 4, "name": "优选配饰", "initials": "YP", "productCount": 1 },
+        { "id": 5, "name": "优选运动", "initials": "YD", "productCount": 1 }
+    ]
+}
