@@ -1,0 +1,11 @@
+{
+"payements":"hupijiao,nowpayments",
+"pay_need_login":1,
+"pay_need_address":0,
+"pay_need_email":0,
+"pay_need_phone":0,
+"company_email":"test@qq.com",
+"company_phone":"18766662222",
+"company_address":"asldkfjaslfasldfalskfjaskldfj"
+
+}
