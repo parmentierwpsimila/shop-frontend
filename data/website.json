@@ -1,0 +1,10 @@
+{
+  "payments": "hupijiao,nowpayments",
+  "pay_need_login": 1,
+  "require_email": 1,
+  "require_phone": 0,
+  "require_address": 0,
+  "company_email": "info@buycms.com",
+  "company_phone": "+86 400-123-4567",
+  "company_address": "中国上海市浦东新区"
+}
